@@ -28,7 +28,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   
 </p>
-
+<p>follow me on ista : @vineet_snoweagle</p>
 
 # Installation
 
@@ -64,7 +64,9 @@
 13. admin login details  Email=admin@gmail.com or username = admin and Password=123456789.
 
 ## If you like my project 
-Bye me Cup of coffee
+
+<h1> Copy rights are Reserved</h1>
+<h1> Proudly done by "Vineeth"</h1>
 
 
 
