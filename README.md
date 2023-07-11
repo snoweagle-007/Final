@@ -1,11 +1,9 @@
-![GitHub](https://img.shields.io/github/license/puneethreddyhc/online-shopping-system-advanced)
-![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.onlineadv)
+
 
 <a href="https://www.buymeacoffee.com/puneethreddyhc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
 
 > ## Updated project with extra Features like WISHLIST, List Orders, add Reviews, updated routing, resolved search bug is available for Premium 
 
-[![Youtube Video](https://img.youtube.com/vi/gLwfj67GI8A/0.jpg)](https://youtu.be/gLwfj67GI8A)
 
 <h3>Things I code with</h3>
 <p>
@@ -31,19 +29,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   
 </p>
-<h1>Projects We develop</h1>
 
-<ul>
-	<li><b>Vue JS</b></li>
-	<li><b>Nuxt JS</b></li>
-	<li><b>Python</b></li>
-	<li><b>Django</b></li>
-	<li><b>PHP and MYSQL</b></li>
-	<li><b>Angular JS</b></li>
-	<li><b>React JS</b></li>
-	<li><b>AI/ML</b></li>
-</ul>
-<h2> Projects with installation support and code explaination for Premium contact gmail: puneethreddy951@gmail.com or visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
 
 # Installation
 
@@ -82,14 +68,6 @@
 Bye me Cup of coffee
 
 
-## visit my other repository with different admin pages with below link
-https://github.com/PuneethReddyHC/online-shopping-system-advanced
-
-https://github.com/PuneethReddyHC/event-management
-
-##  If you like my project hit a star button
-
-
 
 # Screenshots
 ![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/adduser.png)
@@ -115,8 +93,3 @@ https://github.com/PuneethReddyHC/event-management
 
 
 
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
